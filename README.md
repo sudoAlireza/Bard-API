@@ -1,7 +1,26 @@
-Development Status :: 5 - Production/Stable
+Development Status :: 7 - Inactive
+
+<br>
 
 
-# Google <a href="https://gemini.google.com/"><img src="https://camo.githubusercontent.com/adb54264fe2ad5067d07d0752fc32600b4e6250073b01ce8c386575b431e3f06/68747470733a2f2f7777772e677374617469632e636f6d2f6c616d64612f696d616765732f66617669636f6e5f76315f31353031363063646466663766323934636533302e737667" height="20px"></a> ~~Bard~~ Gemini API
+
+***
+
+
+### `Notice` Transition to <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="35px" alt="Gemini Icon" /> [Gemini API](https://github.com/dsdanielpark/Gemini-API)
+
+In February 2024, Bard has changed its service name to Gemini.
+- For some countries/regions where the `__Secure-1PSID` cookie value ends with a single dot: [Bard API](https://github.com/dsdanielpark/Bard-API) >= 0.1.40
+- For all other countries/regions: Starting from March 1st, 2024, please go to the [Gemini API](https://github.com/dsdanielpark/Gemini-API) package.
+
+Moving forward, updates will primarily focus on the Gemini API package.
+
+
+***
+<br>
+
+
+# <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="35px" alt="Gemini Icon" /> Google - Bard API
 
 <p align="left">
 <a href="https://github.com/dsdanielpark/Bard-API"><img alt="PyPI package" src="https://img.shields.io/badge/pypi-BardAPI-black"></a>
@@ -27,8 +46,8 @@ I referred to this github repository([github.com/acheong08/Bard](https://github.
 
 <br>
 
-- [Google  ~~Bard~~ Gemini API](#google--bard-api)
-  - [What is Google ~~Bard~~ Gemini?](#what-is-google-gemini)
+- [Google Bard API](#google--bard-api)
+  - [What is Google Bard?](#what-is-google-gemini)
   - [Install](#install)
   - [Authentication](#authentication)
   - [Usage](#usage)
@@ -50,7 +69,6 @@ I referred to this github repository([github.com/acheong08/Bard](https://github.
 
 
 <br>
-
 
 ## What is Google [Bard](https://gemini.google.com/chat)?
 Bard is a conversational generative artificial intelligence chatbot developed by Google, based initially on the LaMDA family of LLMs(Large Language Models) and later the PaLM LLM. Please check official documents for [updates](https://gemini.google.com/updates) on Bard, including [available regions and languages](https://support.google.com/bard/answer/13575153?hl=en).
